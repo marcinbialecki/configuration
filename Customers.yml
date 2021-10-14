@@ -7,3 +7,4 @@ spring:
       ddl-auto: none
 server:
   port: 0
+custom.api.version: 9
